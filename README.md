@@ -18,3 +18,6 @@ const options = {
   simp_src: fs.readFileSync('/home/me/Pictures/Minato_Aqua.png')
 };
 ```
+
+### Contact me here
+[![Discord Presence](https://lanyard.cnrad.dev/api/899869470145802260)](https://discord.com/users/899869470145802260)
