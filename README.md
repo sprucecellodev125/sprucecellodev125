@@ -7,12 +7,12 @@
 
 ```js
 const me = require('about-me');
-const host = 'heroku';
 const editor = 'vim';
 const options = {
   distro: fs.readFileSync('/etc/os-release'),
   simp_src: fs.readFileSync('/home/me/Pictures/Minato_Aqua.png')
 };
+me.read("bot.js");
 ```
 
 ### Contact me here
