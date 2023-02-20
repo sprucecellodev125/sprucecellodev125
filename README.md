@@ -17,4 +17,5 @@ os.system("xdg-open /where/is/my/minatoaqua-pic.png")
 
 ### Where you'll find me
 [![Discord Presence](https://lanyard.cnrad.dev/api/899869470145802260)](https://discord.com/users/899869470145802260)
+
 Alternatively my revolt username is SpruceCello125
