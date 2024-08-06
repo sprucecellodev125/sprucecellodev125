@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [easy-to-configure forum system](https://github.com/sprucecellodev125/bruhforum)
+- 🔭 I’m currently working on my [Django-powered forum](https://github.com/sprucecellodev125/bruhforum) and open-source School "DingDong" (In progress)
 - 🌱 I’m currently learning HTML, Node.JS, React.JS, Docker, Shell scripting, Python, and Django
-- ⚡ Fun fact: [I'm osu! player](https://osu.ppy.sh/users/29282892)
 
 ```python
 import idea
